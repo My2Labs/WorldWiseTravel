@@ -1,0 +1,69 @@
+{
+  "cities": [
+    {
+      "cityName": "Austin",
+      "stateName": "Texas",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-02-29T12:37:20.862Z",
+      "notes": "",
+      "position": {
+        "lat": "30.270001765380385",
+        "lng": "-97.743558883667"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Cincinnati",
+      "stateName": "Ohio",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-02-29T12:37:51.927Z",
+      "notes": "",
+      "position": {
+        "lat": "39.1016913709699",
+        "lng": "-84.51224327087404"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Washington, D.C.",
+      "stateName": "Washington",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-02-29T12:39:01.925Z",
+      "notes": "",
+      "position": {
+        "lat": "38.89731227340173",
+        "lng": "-77.03649759292604"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Knoxville",
+      "stateName": "Tennessee",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-02-29T12:40:34.216Z",
+      "notes": "University of Tennessee",
+      "position": {
+        "lat": "35.95151659233746",
+        "lng": "-83.92659902572633"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Celina",
+      "stateName": "Tennessee",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-02-29T20:59:22.918Z",
+      "notes": "",
+      "position": {
+        "lat": "36.51819007266449",
+        "lng": "-85.45011520385742"
+      },
+      "id": 98443216
+    }
+  ]
+}
